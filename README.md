@@ -1,10 +1,13 @@
 ## Belajar Typescript Dasar
 
-Instalasi
+Instalasi 
 
 ```
 npm init --y
 ```
+
+Buka package.json, dan tambah type module
+
 
 ```
 npm install--save-dev jest @type/jest    
