@@ -16,6 +16,7 @@ npm install --save-dev babel-jest @babel/preset-env
 
 ---
 npm install --save-dev typescript
+
 ---
 
 ```
