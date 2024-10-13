@@ -3,18 +3,19 @@
 Instalasi
 
 ```
-    npm init --y
-```
-
-```npm install--save-dev jest @type/jest    
+npm init --y
 ```
 
 ```
-    npm install --save-dev babel-jest @babel/preset-env
+npm install--save-dev jest @type/jest    
+```
+
+```
+npm install --save-dev babel-jest @babel/preset-env
 ```
 
 ---
-    npm install --save-dev typescript
+npm install --save-dev typescript
 ---
 
 ```
