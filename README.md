@@ -19,7 +19,7 @@ npm install --save-dev typescript
 
 
 ```
-    npx tsc --init
+npx tsc --init
 ```
 Semua konfigurasi akan dibuat di file tsconfig.json
 Ubah “module” dari “commonjs” menjadi “ES6”
