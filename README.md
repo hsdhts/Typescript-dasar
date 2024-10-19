@@ -10,7 +10,7 @@ Buka package.json, dan tambah type module
 
 
 ```
-npm install--save-dev jest @type/jest    
+npm install --save-dev jest @type/jest    
 ```
 
 ```
